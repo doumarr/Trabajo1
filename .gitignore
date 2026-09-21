@@ -1,0 +1,5 @@
+english
+english.tab.c
+english.tab.h
+lex.yy.c
+*.o

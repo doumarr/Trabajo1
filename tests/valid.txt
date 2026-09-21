@@ -1,0 +1,15 @@
+the dog likes the cat.
+the black dog likes the orange cat.
+the dogs like the cats.
+the black dog and the orange cat like the cow.
+a dog hates the black cow.
+a cat hates the cow.
+the black dog ignores the orange cat.
+the black dogs hate the orange cows.
+cats irritate dogs.
+the dog and the cat like the cow.
+the black dog and the orange cat hate the cow.
+a dog and the cow ignore the cat.
+the dog likes the black cats.
+the dogs like the orange cow.
+the dog and the cat and the cow like the dogs.
