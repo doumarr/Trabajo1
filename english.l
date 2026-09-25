@@ -1,5 +1,4 @@
 %{
-#include <stdio.h>
 #include "english.tab.h"
 %}
 
